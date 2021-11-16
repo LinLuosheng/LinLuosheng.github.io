@@ -3,11 +3,11 @@
   <title>林洛笙</title>
   
   <subtitle>林洛笙の博客</subtitle>
-  <link href="http://ze520.cn/atom.xml" rel="self"/>
+  <link href="https://linluosheng.github.io/atom.xml" rel="self"/>
   
-  <link href="http://ze520.cn/"/>
+  <link href="https://linluosheng.github.io/"/>
   <updated>2021-07-28T11:01:26.837Z</updated>
-  <id>http://ze520.cn/</id>
+  <id>https://linluosheng.github.io/</id>
   
   <author>
     <name>林洛笙</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Markdown快速入门小技巧(hexo博客文章--格式用法)</title>
-    <link href="http://ze520.cn/posts/15546.html"/>
-    <id>http://ze520.cn/posts/15546.html</id>
+    <link href="https://linluosheng.github.io/posts/15546.html"/>
+    <id>https://linluosheng.github.io/posts/15546.html</id>
     <published>2021-06-21T08:00:00.000Z</published>
     <updated>2021-07-28T11:01:26.837Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="hexo博客" scheme="http://ze520.cn/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
+    <category term="hexo博客" scheme="https://linluosheng.github.io/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="Markdown" scheme="http://ze520.cn/categories/hexo%E5%8D%9A%E5%AE%A2/Markdown/"/>
+    <category term="Markdown" scheme="https://linluosheng.github.io/categories/hexo%E5%8D%9A%E5%AE%A2/Markdown/"/>
     
     
-    <category term="hexo博客" scheme="http://ze520.cn/tags/hexo%E5%8D%9A%E5%AE%A2/"/>
+    <category term="hexo博客" scheme="https://linluosheng.github.io/tags/hexo%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="Markdown" scheme="http://ze520.cn/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://linluosheng.github.io/tags/Markdown/"/>
     
   </entry>
   
